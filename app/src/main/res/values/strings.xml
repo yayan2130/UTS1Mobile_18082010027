@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="faculty_profile_upn">Profil Fakultas UPN</string>
+    <string name="nama_fak">nama_fak</string>
+    <string name="nama_desc">nama_desc</string>
+    <string name="short_desc">short_desc</string>
+</resources>
